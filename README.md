@@ -35,7 +35,7 @@ This repository contains the official MATLAB implementation of the following pap
 Material related to our paper is available via the following links:
 
 - Paper:  https://ieeexplore.ieee.org/document/9515579
-- Code: https://github.com/wsj890411/PolarHR_Model
+- Code: https://github.com/wsj890411/Polar_HR
 
 ## System requirements
 
